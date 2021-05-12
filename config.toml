@@ -6,11 +6,11 @@ languageCode = "en"
 title = "IO/Bits.se"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "uBlogger"
 
 [params]
-  # LoveIt theme version
-  version = "0.2.X"
+  # uBlogger theme version
+  version = "1.3.X"
 
 [menu]
   [[menu.main]]
