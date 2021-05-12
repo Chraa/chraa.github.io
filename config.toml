@@ -3,7 +3,7 @@ baseURL = "https://iobits.se"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Patric Wallin"
+title = "IO/Bits.se"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
