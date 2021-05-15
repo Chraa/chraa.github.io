@@ -1,7 +1,6 @@
 ---
 title: About Me
 description: Patric Wallin
-tags: ["about me"]
 ---
 
 I am a professional security consultant with penetration testing as main focus.
@@ -10,3 +9,7 @@ On this site i will share both security-related material but also maintain artic
 My base is just outside of Gothenburg in Sweden.
 
 Cheers.
+
+---
+tags: ["about me"]
+---
