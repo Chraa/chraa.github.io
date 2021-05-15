@@ -1,4 +1,4 @@
-baseURL = "https://iobits.se"
+baseURL = "https://iobits.se/"
 languageCode = "en-us"
 title = "IOBits"
 theme = "minimal"
